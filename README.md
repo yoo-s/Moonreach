@@ -5,32 +5,33 @@ Mission statement
 
 My first attempt at a simple 2d platformer using the Unity game engine.
 
-On a cold, snowy night, a baby bunny's mother is taken away by a dog, and the baby bunny bravely sets out to save her...
+On a cold, snowy night, a mother bunny's baby is taken away by a dog, and the mother bunny bravely sets out to save him...
 A simple game with a simple story, and my first steps to get better at coding...?
 
 Startup -----------
 Logo intro
 
 Main menu ----------
-Play
+Play *
 Load
 Settings (music/sfx volume)
 Quit
 
 Intro scene -------------
-Mother and baby bunny happy in burrow
+Baby bunny happy in burrow
 Dog comes along, finds burrow and digs
-Dog grabs mother bunny, skips away
-Baby bunny sad and scared, all alone crying in burrow
-Baby bunny finds resolve, sets out to save mother bunny
+Dog grabs baby bunny, skips away
+Mother bunny comes back and panics
+Mother bunny sets out to save baby bunny
 Skip option
 
 Gameplay -------------
-Snowy effect
-Levels (rabbit hills, light woods, creek, heavy forest, abandoned cabin, dog)
-Baby bunny character/animation
+Snowy effect *
+Levels (rabbit hills, light woods, creek, heavy forest, abandoned cabin)
+Bunny character/animation
 Background music
 Sfx
+Choose ending - take baby back to burrow, live together w/ dog and puppies
 
 Credits ---------------
 Sketch artwork
