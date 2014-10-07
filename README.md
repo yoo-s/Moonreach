@@ -27,8 +27,13 @@ Skip option
 
 Gameplay -------------
 Snowy effect *
-Levels (rabbit hills, light woods, creek, heavy forest, abandoned cabin)
-Bunny character/animation
+Levels (
+  rabbit hills - rolling hills bg, warren fg *
+  light woods - forest bg, snowy ground fg, 
+  creek - thicker forest bg, snowy fg w/ creek, 
+  heavy forest - thick forest bg, snowy ground fg, wooden cabin at end, 
+  abandoned cabin - wooden cabin wall bg, wooden ground fg)
+Bunny character/animation *
 Background music
 Sfx
 Choose ending - take baby back to burrow, live together w/ dog and puppies
