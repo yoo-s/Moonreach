@@ -12,6 +12,7 @@ A simple game with a simple story, and my first steps to get better at coding...
 Logo intro
 
 3) Main menu ----------
+Title/image
 Play *
 Load
 Settings (music/sfx volume)
