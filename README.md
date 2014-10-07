@@ -29,7 +29,7 @@ Skip option
 1) Gameplay -------------
 Snowy effect *
 Platforms
-Collectibles
+Collectibles - carrots, apples, cilantro, golden versions bonus
 Levels (
   rabbit hills - rolling hills bg, warren fg *
   light woods - forest bg, snowy ground fg, 
