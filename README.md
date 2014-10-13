@@ -29,7 +29,7 @@ Skip option
 1) Gameplay -------------
 Snowy effect *
 Platforms
-Collectibles - carrots, apples, cilantro, golden versions bonus
+Collectibles - carrots, apples, clovers, golden versions bonus
 Levels (
   rabbit hills - rolling hills bg, warren fg *
   light woods - forest bg, snowy ground fg, 
@@ -39,6 +39,7 @@ Levels (
 Bunny character/animation *
 Background music *
 Sfx
+Bunny must solve puzzles to find three snow flowers to give to bird with key to open cabin door where dog is.
 Choose ending - take baby back to burrow, live together w/ dog and puppies
 
 4) Credits ---------------
