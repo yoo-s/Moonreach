@@ -1,12 +1,16 @@
-Seek
+Bunny Moon
 ====
 
 Mission statement
 
 My first attempt at a simple 2d platformer using the Unity game engine.
 
-On a cold, snowy night, a mother bunny's baby is taken away by a dog, and the mother bunny bravely sets out to save him...
+A little bunny has a dream of reaching the moon...
 A simple game with a simple story, and my first steps to get better at coding...?
+
+Plan ===============================
+10/20 - 
+
 
 5) Startup -----------
 Logo intro
@@ -28,19 +32,12 @@ Skip option
 
 1) Gameplay -------------
 Snowy effect *
-Platforms
+Platforms *
 Collectibles - carrots, apples, clovers, golden versions bonus
-Levels (
-  rabbit hills - rolling hills bg, warren fg *
-  light woods - forest bg, snowy ground fg, 
-  creek - thicker forest bg, snowy fg w/ creek, 
-  heavy forest - thick forest bg, snowy ground fg, wooden cabin at end, 
-  abandoned cabin - wooden cabin wall bg, wooden ground fg)
+Background image from ground to moon - tiling?
 Bunny character/animation *
 Background music *
 Sfx
-Bunny must solve puzzles to find three snow flowers to give to bird with key to open cabin door where dog is.
-Choose ending - take baby back to burrow, live together w/ dog and puppies
 
 4) Credits ---------------
 Sketch artwork
