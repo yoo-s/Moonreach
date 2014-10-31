@@ -11,13 +11,10 @@ There will be platforms leading upwards to the moon in a narrow passageway with 
 A simple game with a simple story, and my first steps to get better at coding...?
 
 Plan ===============================
-10/23 - passageway, windows, rooms
-10/24 - platforms
-10/25 - bunny
-10/26 - fruit, collectibles, star
-10/27 - narwhal, narwhal sign
-10/28 - animation
-10/29 - 
+10/31 - bunny - modeling, rigging, animation, more platforms, particles, lighting
+11/01 - fruit, collectibles, star
+11/02 - narwhal, narwhal sign, narwhal room
+11/03 - animation
 
 5) Startup -----------
 Logo intro
