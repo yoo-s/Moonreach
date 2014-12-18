@@ -8,6 +8,7 @@ Library/
 # ===================================== #
 ExportedObj/
 obj/
+*.fbx
 *.svd
 *.userprefs
 /*.csproj
